@@ -1,0 +1,13 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using BlazorApp1.Shared;
+global using BlazorApp1.Client;
+global using Microsoft.AspNetCore.Components.Web;
+global using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
+global using Microsoft.AspNetCore.Components;
+global using System.Net.Http.Json;
+global using BlazorApp1.Client.Services.ProductService;
+global using BlazorApp1.Client.Services.CategoryService;
